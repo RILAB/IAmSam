@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <math.h>
+#include <algorithm> 
 #include <gsl/gsl_rng.h>
 #include <gsl/gsl_randist.h>
 #include <list>
