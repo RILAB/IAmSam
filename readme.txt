@@ -13,6 +13,8 @@ Q: generations at which selfing evolves
 S: random seed
 N: diploid popsize
 
+Output is `pop.F  pop.R  pi  num_alleles  is_indel`.
+
 Download iamsam.cc and compile with "g++ iamsam.cc -o iamsam -lgsl -lgslcblas -lm" (requires gnu scientific library).
 
 References
